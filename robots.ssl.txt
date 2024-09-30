@@ -1,0 +1,15 @@
+Sitemap: https://www.theopenworkpartnership.com/sitemap.xml
+
+User-agent: *
+Disallow: /*?*
+Disallow: /app_data/
+Disallow: /app_plugins/
+Disallow: /bin/
+Disallow: /config/
+Disallow: /css/
+Disallow: /media/
+Disallow: /scripts/
+Disallow: /staticmedia/
+Disallow: /styleguide/
+Disallow: /umbraco/
+Disallow: /usync/
